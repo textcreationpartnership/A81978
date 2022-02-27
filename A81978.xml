@@ -1,0 +1,404 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The witches of Huntingdon, their examinations and confessions; exactly taken by his Majesties justices of peace for that county. Whereby will appeare haw craftily and dangerously the devill tempteth and seizeth on poore soules. The reader may make use hereof against hypocrisie, anger, malice, swearing, idolatry, lust, covetousnesse, and other grievous sins, which occasioned this their downfall.</title>
+            <author>Davenport, John, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81978</idno>
+            <idno type="STC">Wing D368</idno>
+            <idno type="STC">Thomason E343_10</idno>
+            <idno type="STC">ESTC R200949</idno>
+            <idno type="EEBO-CITATION">99861560</idno>
+            <idno type="PROQUEST">99861560</idno>
+            <idno type="VID">159776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159776)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E343[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The witches of Huntingdon, their examinations and confessions; exactly taken by his Majesties justices of peace for that county. Whereby will appeare haw craftily and dangerously the devill tempteth and seizeth on poore soules. The reader may make use hereof against hypocrisie, anger, malice, swearing, idolatry, lust, covetousnesse, and other grievous sins, which occasioned this their downfall.</title>
+                  <author>Davenport, John, fl. 1646.</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Wilson, for Richard Clutterbuck.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Epistle Dedicatorie signed: John Davenport.</note>
+                  <note>Annotation on Thomason copy: "July 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Witchcraft --  England --  Huntingdon --  Early works to 1800.</term>
+               <term>Trials (Witchcraft) --  England --  Huntingdon --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159776:1" rendition="simple:additions"/>
+            <p>THE WITCHES OF HVNTINGDON, Their Examinations and Confeſſions; exactly taken by his Majeſties Juſtices of Peace for that Coun<g ref="char:EOLhyphen"/>ty. Whereby will appeare how craftily and dangerouſly the Devill tempteth and ſeizeth on poore ſoules.</p>
+            <p>The Reader may make uſe hereof againſt Hypocriſie, anger, malice, ſwearing, Ido<g ref="char:EOLhyphen"/>latry, Luſt, Covetouſneſſe, and other grievous ſins, which occaſioned this their downfall.</p>
+            <q>Profecto res ſtulta eſt nequitiae modus. <bibl>
+                  <hi>Seneca.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by W. WILSON, for RICHARD CLUTTERBUCK. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:159776:2"/>
+            <pb facs="tcp:159776:2"/>
+            <head>TO The Right Wor<g ref="char:EOLhyphen"/>ſhipfull the Iuſtices of the Peace for the County of <hi>HVNTINGTON.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath beene a common fault of late, to commend things to the Preſſe taken up by heare<g ref="char:EOLhyphen"/>ſay and report, which fre<g ref="char:EOLhyphen"/>quently prove untrue. This common courſe makes many trueths doubted, ſpecially in dif<g ref="char:EOLhyphen"/>ficult diſcoveries. That this enſuing diſ<g ref="char:EOLhyphen"/>courſe is true, I need no other witneſſes then your ſelves: your paines was uſed in the dili<g ref="char:EOLhyphen"/>gent Examination of the Offenders, and the
+<pb facs="tcp:159776:3"/> witneſſes againſt them. You were preſent, and Judges at the Tryall and Conviction of them, more full and cleare confeſſions, more ſatisfactory Evidence, and a clearer Con<g ref="char:EOLhyphen"/>viction, could not be in a caſe of this nature. By particular ſervice, I was attendant in moſt of the Examinations: and waiting on you all at the Tryall, know what I aſſert to be true, and dare preſume to make you Patrons hereof. Knowing your integrities moſt rea<g ref="char:EOLhyphen"/>dy to atteſt truth, and to maintain and coun<g ref="char:EOLhyphen"/>tenance herein</p>
+            <closer>
+               <signed>Your Honourer and humble Servant, JOHN DAVENPORT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159776:3"/>
+            <head>THE VVITCHES OF HVNTINGDON, Their Examinations and Confeſſions exactly taken, &amp;c.</head>
+            <div type="part">
+               <head>The Examination of <hi>Elizabeth Weed</hi> of great <hi>Catworth</hi> in the County of <hi>Huntingdon,</hi> Widow, taken upon the laſt day of <hi>March, 1646.</hi> before <hi>Robert Bernard,</hi> and <hi>Nicholas Pedley,</hi> Eſq; two of his Majeſties Juſtices of the peace for this County.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>He ſaith, that about one and twenty yeares ſince ſhe being ſaying her Prayers in the evening about bed<g ref="char:EOLhyphen"/>time, there did appeare unto her three Spirits, one in the likeneſſe of a young man or boy, and <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e other two of two Puppies, the one white and the other black: and that which was in the ſhape of a young man did ſpeak unto her, asking her, if ſhee would renounce God and Chriſt; ſhee anſwered, ſhee would. And the Devill then of<g ref="char:EOLhyphen"/>fer'd her, that hee would doe what miſchiefe ſhe ſhould require him; and ſaid ſhe muſt covenant with him that he muſt have her ſoule at the end of one and twenty years, which ſhe granted. And ſaith, that he came to her about a week after, about ten of the clock in the night, with a Paper, and asked her whether ſhe were willing to ſeale the Covenant, ſhee ſaid ſhe was, then he told her it muſt be done with her bloud, and ſo pricked her under her left
+<pb n="2" facs="tcp:159776:4"/> arme, and made her bleed in the place: a great lumpe of fleſh did riſe, and hath encreaſed ever ſince, and he ſcribled therewith. And being demanded what light was there, ſhe anſwered, none but the light of the Spirit, and preſently he came to bed to her, and had the carnall knowledge of her, and ſo did divers times after, and ſaith, the other two Spirits did then, and at other times come into her bed alſo, and ſuckt upon other parts of her body where ſhee had Teats. Being demanded the name of the leſſer Spirits, ſhee ſaith the name of the white one was <hi>Lilly,</hi> and the blacke one <hi>Priſcill;</hi> and that the office of <hi>Lilly</hi> was to hurt man, woman, or coilde; and the office of <hi>Priſcill</hi> was to hurt Cattell when ſhe de<g ref="char:EOLhyphen"/>ſired. And the office of the man-like Spirit was to lye with her carnally, when and as often as ſhe deſired, and that hee did lye with her in that manner very often; and that the Spirit <hi>Lilly,</hi> ac<g ref="char:EOLhyphen"/>chrding to the Covenant, did kill the childe of Mr. <hi>Henry Bedells</hi> of <hi>Catworth</hi> aforeſaid, as ſhee this Examinate deſired him to do; and that ſhe wiſht him to doe the ſame when ſhe was angrie; but doth not well remember for what: and ſaith, that about two or three dayes before that, ſhee ſent the ſame <hi>Lilly</hi> to the ſaid <hi>Henry Bedells</hi> commanding him to kill him, who returned and ſaid hee had no power: and confeſſeth ſhee ſent her ſaid Spirit another time to doe ſome hurt to <hi>Edward Muſgrave</hi> of <hi>Catworth,</hi> aforeſaid, who likewiſe returned anſwer, he had no power: And that ſhe ſent her Spirit <hi>Priſcill</hi> to kill two horſes of the ſaid <hi>Ed<g ref="char:EOLhyphen"/>ward Muſgraves,</hi> and one of <hi>John Muſgraves,</hi> and to kil one Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>William Muſgraves,</hi> and one Cow of <hi>Thomas Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rps</hi> of the ſame Towne, which was done accordingly. And being deman<g ref="char:EOLhyphen"/>ded when the one and twenty yeares would be out, ſhe anſwered about <hi>Low-Sunday</hi> next, to the beſt of her remembrance, and be<g ref="char:EOLhyphen"/>ing further demanded what was the reaſon, ſhe did duly reſort to Church to Sermons, &amp; alſo to the Miniſters houſe to repetiti<g ref="char:EOLhyphen"/>on, which Mr. <hi>Poole</hi> the Miniſter being preſent did affirme; ſhee ſaith, ſhe was well pleaſed with his preaching, and had a deſire to be rid of that unhappy burthen which was upon her. And fur<g ref="char:EOLhyphen"/>ther ſhe ſaith not.</p>
+               <closer>
+                  <signed>Signum
+<list>
+                        <item>
+                           <hi>Elizabeth Weed.</hi>
+                        </item>
+                        <item>ROB. BERNARD.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:159776:4"/>
+               <head>The Examination of <hi>John Winnick</hi> of Molſeworth in the ſaid County, Labourer, taken upon the <hi>11.</hi> day of <hi>Aprill, 1646.</hi> before <hi>Robert Bernard</hi> Eſquire, one of His Majeſties Juſtices of the Peace for this County.</head>
+               <p>HEe ſaith, that about 29. yeares ſince, the 29<hi rend="sup">th</hi> yeare ending about Midſommer laſt paſt, he being a Batchellour, lived at Thropſton with one <hi>Bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eman,</hi> who then kept the Inne at the <hi>George,</hi> and withall kept Husbandry: this Examinate being a ſer<g ref="char:EOLhyphen"/>vant to him in his husbandry, did then looſe a p<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e with 7 s. in it, for which he ſuſpected one in the Family. He ſaith that on a Friday being in the barne, making hay-bottles for his horſes a<g ref="char:EOLhyphen"/>bout noon, ſwearing, curſing, raging, and wiſhing to himſelfe that ſome wiſe body (or Wizzard) would helpe him to his purſe and money again: there appeare<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unto him a Spirit, blacke and ſhaggy, and having pawes like a Beare, but in bulk not fully ſo big as a Coney. The Spirit asked him what he ailed to be ſo ſor<g ref="char:EOLhyphen"/>rowfull, this Examinate anſwered that he had loſt a purſe and money, and knew not how to come by it againe. The Spirit re<g ref="char:EOLhyphen"/>plied, if you will forſake God and Chriſt, and fall down &amp; wor<g ref="char:EOLhyphen"/>ſhip me for your God, I will help you to your purſe and mony a<g ref="char:EOLhyphen"/>gaine: This Examinate ſaid he would, and thereupon fell down upon his knees and held up his hands. Then the Spirit ſaid, to morrow about this time of the day, you ſhall find your purſe up<g ref="char:EOLhyphen"/>on the floor where you are now making bottles, I will ſend it to you, and will alſo come my ſelfe. Whereupon this Examinate told the Spirit he would meete him there, and receive it, &amp; wor<g ref="char:EOLhyphen"/>ſhip him. Whereupon at the time prefixed, this Examinate went unto the place, and found his purſe upon the floore and tooke it up, and looking afterwards into it, he found there all the money that was formerly loſt: but before he had looked into it, the ſame Spirit appears unto him and ſaid, there is your purſe and your money in it: and t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en this Examinate fell downe upon his knees and ſaid, my Lord and God I thanke you. The ſaid Spirit at that
+<pb n="4" facs="tcp:159776:5"/> time brought with him two other Spirits, for ſhape, bigneſſe, &amp; colour, the one like a white Cat, the other like a grey Coney: and while this Examinate was upon his knees, the Beare Spirit ſpake to him, ſaying, you muſt worſhip theſe two Spirits as you worſhip me, and take them for your Gods alſo: then this Exami<g ref="char:EOLhyphen"/>nate directed his bodie towards them, and call'd them his Lords and Gods. Then the Beare Spirit told him that when he dyed he muſt have his ſoule, whereunto this Examinate yielded. Hee told him then alſo that they muſt ſuck of his body, to which this Examinate alſo yielded, but they did not ſucke at that time. The Beare Spirit promiſed him that he ſhould never want victualls. The Cat Spirit that it would hurt cattel when he would deſire it. And the Coney-like Spirit that it would hurt men when he deſi<g ref="char:EOLhyphen"/>red. The bear ſpirit told him that it muſt have ſome of his blood wherewith to ſeale the Covenant, whereunto this Examinate yeelded, and then the beare Spirit leapt upon his ſhoulder, and prickt him on the head, and <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thence tooke blood: and after thus doing, the ſaid three ſpirits vaniſht away. The next day a<g ref="char:EOLhyphen"/>bout noone, the ſaid Spirits came to him while hee was in the field, and told him they were come to ſuck of his body, to which he yielded, and they ſuckt his body at the places where the marks are found, and from that time to this, they have come conſtantly to him once every 24. hours, ſometimes by day, and moſt com<g ref="char:EOLhyphen"/>monly by night. And being demanded what miſchiefe he cauſed any of the ſaid Spirits to do, he anſwered never any, onely hee ſent his beare Spirit to provoke the Maid-ſervant of Mr. <hi>Say</hi> of <hi>Molmeſworth</hi> to ſteale victualls for him out of her Maſters houſe, which ſhe did, and this Examinate received the ſame.</p>
+               <closer>
+                  <signed>The marke of
+<list>
+                        <item>
+                           <hi>John Winnicke.</hi>
+                        </item>
+                        <item>ROE. BERNARD.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:159776:5"/>
+               <head>The examination of <hi>Francis Moore,</hi> taken before Nicholas Pedley Eſq; one of his Majeſties Juſtices of Peace for this County, the ninth day of <hi>April. 1646.</hi>
+               </head>
+               <p>THis Examinate ſaith, that about eight yeares ſince ſhe recei<g ref="char:EOLhyphen"/>ved a little blacke puppy from one <hi>Margaret Simſon</hi> of great <hi>Catworth,</hi> which dog the ſaid <hi>Margaret</hi> had in her bed with her, &amp; took it thence when ſhe gave it to the Examinate: The Exami<g ref="char:EOLhyphen"/>nate further ſaith, that the ſaid <hi>Margaret</hi> told her, that ſhe muſt keep that dogge all her life time; and if ſhe curſed any Cattell, &amp; ſet the ſame dog upon them, they ſhould preſently dye, and the ſaid <hi>Margaret</hi> told her that ſhe had named it already, his name was <hi>Pretty.</hi>
+               </p>
+               <p>And the ſaid Examinate further ſaith, that about the ſame time one goodwife <hi>Weed</hi> gave her a white Cat, telling her, that if ſhe would deny God, and affirme the ſame by her bloud, then whomſoever ſhe curſed and ſent that Cat unto, they ſhould dye ſhortly after. Whereupon this ſaid Examinate ſaith that ſhee did deny God, and in affirmation thereof ſhee pricked her finger with a thorne, whence iſſued bloud, which the Cat preſently lic<g ref="char:EOLhyphen"/>ked; and the ſaid goood-wife <hi>Weed</hi> named the Cat <hi>Tiſſy.</hi> And the ſaid Examinate further ſaith, that one <hi>William Foſter,</hi> about ſixteen yeares ſince, would have hanged two of her children for offering to take a piece of bread; and for that cauſe about ſixe yeares ſince ſhe curſed the ſaid <hi>William Foſter;</hi> whereupon the white Cat went to him, and he immediately fell ſick, and lying in great paine for the ſpace of ſeven or eight dayes, and then dy<g ref="char:EOLhyphen"/>ed: but being demanded what the Cat did to him, or what ſhee bid it doe, ſhe ſaith ſhe remembers not. And ſhee further ſaith, that about five yeares ſince, ſhee keeping Cowes in the field, a Cow of <hi>Edward Hulls</hi> went into the graine, ſhe curſed her, and ſet <hi>Pretty</hi> on her, and ſhe ſwelled and dyed ſhortly after; and after that a Cow of one <hi>Peter Brownes</hi> went into the Corne, and ſhee likewiſe curſed her, and ſet <hi>Pretty</hi> on her, and ſhe dyed within two
+<pb n="6" facs="tcp:159776:6"/> or three dayes after: and ſhe further ſaith, that ſhe killed the ſaid Dog and Cat about a yeare ſince; and yet after that the like Dog and Cat haunted her familiarly: and when ſhe was apprehended, they crept under her cloathes, and tortured her ſo that ſhe could not ſpeake, to confeſſe freely, and more ſhe ſaith not.</p>
+               <closer>
+                  <signed>The Marke of
+<list>
+                        <item>
+                           <hi>Frances Moore.</hi>
+                        </item>
+                        <item>
+                           <hi>Ni. Pedley.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Information of <hi>Peter Slater</hi> of <hi>Little Catworth</hi> in the ſaid County, Shepheard, taken upon oath, before <hi>Robert Bernard</hi> Eſq; one of his Majeſties Juſtices of Peace for this County, upon the <hi>7<hi rend="sup">th</hi>
+                  </hi> day of April. <hi>1646.</hi>
+               </head>
+               <p>THis Informant ſaith, That his wife dying about one and twenty yeares ſince in Child-bed, and one <hi>Frances Moore</hi> be<g ref="char:EOLhyphen"/>ing ſuſpected for a Witch, &amp; in cuſtody: He went to her upon Fri<g ref="char:EOLhyphen"/>day laſt, and asked her, if ſhe did his wife any harme? ſhe anſwe<g ref="char:EOLhyphen"/>red ſhe did, by curſing her. And he ſaith, his wife did of a ſud<g ref="char:EOLhyphen"/>den change and dye, after ſhe had lain in a week; and that a little before this Informants wife was brought to bed, the ſaid <hi>Fran<g ref="char:EOLhyphen"/>ces Moore</hi> falling out with her, ſaid, ſhe hoped ſhee ſhould never be untwin'd, as this Informant hath ſince called to minde.</p>
+               <closer>
+                  <signed>Signum
+<list>
+                        <item>
+                           <hi>Peter Slater.</hi>
+                        </item>
+                        <item>ROB. BERNARD.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:159776:6"/>
+               <head>The Information of <hi>William Searle</hi> of little <hi>Catworth,</hi> Ye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man taken upon oath the ſaid day and yeare.</head>
+               <p>THis Informant ſaith, he was preſent when <hi>Frances Moore</hi> did confeſſe her ſelfe to be a Witch, and that ſhee had done much harme; and amongſt other things, that ſhe ſent her Spirit <hi>Pretty</hi> to this Informants Capons, who did kill them: and hee ſaith, that ſhe comming to bake a loafe at his houſe about three or four yeares ſince, being denyed, the Capons did fall a fluttering, and would never eate after. Alſo ſaith, that about the ſaid time, ſhe having a Hogge in his yard, ſome of his ſervants ſet a Dog on the ſame; for which ſhe ſaid ſhe would bee revenged; and the next day one of his Hogs dyed.</p>
+               <closer>
+                  <signed>Signum,
+<list>
+                        <item>
+                           <hi>William Searle.</hi>
+                        </item>
+                        <item>ROB. BERNARD.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Examination of <hi>Elizabeth Chandler</hi> of Keiſton, Widow, taken the ſeventh day of <hi>Aprill, 1646.</hi> before <hi>Robert Bernard</hi> and <hi>Ni<g ref="char:EOLhyphen"/>cholas Pedley</hi> Eſquires, two of his Majeſties Juſtices of the Peace for this County.</head>
+               <p>SHee ſaith that ſomething hath come to her five times within this little ſpace, and that there was about a weekes ſpace be<g ref="char:EOLhyphen"/>tween their comming to her, and that the laſt time was upon Satterday ſeven-night laſt in a puffing and roaring manner. And
+<pb n="8" facs="tcp:159776:7"/> ſhe ſaith that ſhe found her body ſore about the bottome of her belly after he was gone from her. She ſaith ſhe did never willing<g ref="char:EOLhyphen"/>ly invoke or imploy the ſame, but hath prayed to God to deliver her therfrom. Being demanded whether ſhe did heretofore ſtrike a childe of Goodwife <hi>Darnells</hi> of <hi>Keiſton,</hi> named <hi>Katherine,</hi> or ſend any Spirit to harm it, ſhe denyeth the ſame: being asked whether ſhe did heretofore uſe any means to ſpoile the Furmity of the ſaid Goodwife <hi>Darnell</hi> or any other, ſhe anſwered no; ſhe confeſſeth that about two years ſince, having received ſome hard uſage from the ſaid Goodwife <hi>Darnell,</hi> by cauſing her to be duckt, ſhee did heartily deſire to be revenged of her. And about halfe a yeare af<g ref="char:EOLhyphen"/>ter, and ever ſince, ſhe hath been troubled with the ſaid roaring things. Being damanded whether ſhe had not two Imps reſorted to her, and that ſhe named the ſame, calling the one <hi>Beelzebub,</hi> &amp; the other <hi>Trullibub:</hi> She denyeth the ſame, only ſaith ſhe did call a logg of wood <hi>Beelzebub,</hi> and a ſticke <hi>Trullibub.</hi>
+               </p>
+               <closer>
+                  <signed>Signum,
+<list>
+                        <item>
+                           <hi>Elizabeth Chandler.</hi>
+                        </item>
+                        <item>OB. BERNARD.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Information of <hi>Mary Darnell</hi> the Wife of <hi>William Darnell</hi> of Keiſton, Blacke-ſmith; taken upon oath the ſaid ſeventh day of <hi>April,</hi> fore the ſaid Juſtices.</head>
+               <p>SHe ſaith that about a year ſince, ſhe had a daughter named <hi>Ka<g ref="char:EOLhyphen"/>therine,</hi> which was then about the age of nine yeares, which <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hilde was eating Furmity with another childe brought up by <hi>Elizabeth Chandler</hi> at the houſe of one <hi>William Browning</hi> in Kei<g ref="char:EOLhyphen"/>ſton aforeſaid: at which time the ſaid two children fell out as ſhe <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eard. And this Infor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ants child did expres when ſhe came home that Goodwiſe <hi>Chandler</hi> had given it a boxe of the Eare, &amp; com<g ref="char:EOLhyphen"/>playned of that <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e ſo long as it lived, which was untill that
+<pb n="9" facs="tcp:159776:7"/> day 3 weeks: and during the time that it did lye ill, it did ſqueal and ſhreek out very often, that Goodwife <hi>Chandler</hi> did come to her and would kill her. And ſhe ſaith, that about a yeare ſince ſhe made ſome Furmity, and bid ſome Neighbours to the houſe: but when the ſame was taking up, it did continue boyling for an houre after it was taken from the fire, and ſhe could not keepe it from running over, although ſhe put it into great bowles, tubs, and other large veſſells. And ſhe hath heard <hi>Lewis Carmell</hi> ſay that ſhe confeſſed ſhe did cauſe it to be ſpoiled by Beelzebub, be<g ref="char:EOLhyphen"/>cauſe ſhe was not bid to it, nor had any part thereof.</p>
+               <closer>
+                  <signed>Signum,
+<list>
+                        <item>
+                           <hi>Mary Darnell.</hi>
+                        </item>
+                        <item>ROB. BERNARD.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The examination of <hi>Ell<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> the Wife of <hi>William Shepheard</hi> of <hi>Moleſ<g ref="char:EOLhyphen"/>worth</hi> in the ſaid County, Labourer, taken the <hi>8<hi rend="sup">th</hi>
+                  </hi> day of <hi>Aprill, 1646.</hi> before <hi>Robert Bernard</hi> and <hi>Nicholas Pedley,</hi> Eſquires, two of His Majeſties Juſtices of the Peace for the ſaid County.</head>
+               <p>SHee ſaith, that about five yeares ſince, when ſhee was in her homſted at Moleſworth, ſwearing and curſing about the diſ<g ref="char:EOLhyphen"/>cords of her children, there appeared unto her a Spirit, ſomewhat like a Rat, but not fully ſo big, of an iron-grey colour, and ſaid you muſt goe with me, and ſhe ſaid, I will not, avoid Satan, and thereupon he went away. Shee ſaith, that within a ſhort time af<g ref="char:EOLhyphen"/>ter, going into the field, curſing, and fretting, and blaſpheming, there appeared three Spirits more with the former in the faſhion of Rats, of an iron-grey, and ſaid, you muſt forſake God and Chriſt, and goe with me, and take thoſe ſpirits for your Gods, and you ſhall have all happineſſe, whereunto ſhe conſented: And moreover they ſaid unto her, that when ſhe dyed, they muſt have her body and ſoule, and ſaid, they muſt have blood from her,
+<pb n="10" facs="tcp:159776:8"/> which ſhe granted, and thereupon they ſucked her upon and a<g ref="char:EOLhyphen"/>bout her hippes, and they have uſed very often to come to her ſince. Being demanded whether ever ſhe imployed them to hurt any reaſonable creature or beaſt, ſhe ſaith ſhe did not: And ſhee ſaith that ſome of them did torment her this afternoon, ſince ſhe was brought to Huntington to be examined. Being demanded whether ſhe enjoyed any happineſſe (as they promiſed) ſince they frequented her, ſhe ſaith ſhe did not, but doth intend to leave her former courſe of curſing and ſwearing.</p>
+               <closer>
+                  <signed>Signum,
+<list>
+                        <item>
+                           <hi>Ellen Shepheard.</hi>
+                        </item>
+                        <item>ROB. BERNARD,</item>
+                        <item>NIC. PEDLY.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The information of <hi>Thomas Becke</hi> of Bythorn <hi>in Com. Hunt.</hi> Yeo<g ref="char:EOLhyphen"/>man, againſt <hi>Anne Desborough,</hi> taken upon oath before <hi>Nicholas Pedley</hi> Eſquire, one of his Majeſties Juſtices of Peace for the ſaid County, the <hi>9<hi rend="sup">th</hi>
+                  </hi> day of <hi>April, 1646.</hi>
+               </head>
+               <p>THis Informant ſaith, that <hi>Anne Deſborough</hi> Widow of Bythorn aforeſaid, being apprehended upon ſuſpition of being a witch, on the 8<hi rend="sup">th</hi> day of this preſent April, he in the preſence of Maſter <hi>Coyſh</hi> and others, heard the ſaid <hi>Anne Deſborough</hi> (in anſwer to queſtions asked her) freely confeſſe, that about 30. yeares ſince, there appeared unto her a thing ſomewhat bigger then a mouſe, of a browne colour, when ſhe lived at Titſmarſh in the County of Northampton, ſhe being in bed and aſleep, which nipped her on the breaſt and awakened her, then it told her that it muſt have part of her ſoule: ſhe prayed thsn to God, and it left her at that time, and the ſaid Informant heard the ſaid <hi>Anne</hi> further ſay, that about five or ſixe dayes after, the ſame mouſe appeared againe to her with another much like the former, it being a little leſſe then the former, and had a white bellie: then the mouſe that came firſt
+<pb n="11" facs="tcp:159776:8"/> ſaid, we muſt abide with you, and ſucke your bloud, ſhe ſaid that they ſhould. About three dayes after both the mice came to her againe, and told her that ſhe muſt forſake God and Chriſt: and when ſhe dyed, they muſt have her ſoule, to all which ſhe yielded: this Informant ſaith further, that he heard the ſaid <hi>Anne</hi> confeſſe that ſhe named one of the mice <hi>Tib,</hi> which promiſed her to hurt men, and ſhe named the other <hi>Jone,</hi> which promiſed her to hurt Cattell when ſhe wiſhed it: and after the third time they kept not away from her above 24. houres together, but did frequent her, and familiarly ſuck <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n her bodie, untill ſhe was appre<g ref="char:EOLhyphen"/>hended.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Thomas Becke.</hi>
+                        </item>
+                        <item>NIC: PEDLEY.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>April <hi>the</hi> 8. <hi>day, Anno</hi> 1646.</head>
+               <p>
+                  <hi>ANne Deſborough</hi> of Bythorn in the County of Huntington, confeſſeth, that about 30. yeares ſince, the firſt weeke of Cleane Lent, there appeared unto her a thing ſome-what bigger then a Mouſe, of a brown colour, and of the likeneſſe of a mouſe. This was while ſhee lived at Tichmarſh in the County of Nor<g ref="char:EOLhyphen"/>thampton: ſhe being there in bed, and in a dreame, the ſaid like<g ref="char:EOLhyphen"/>neſſe then gave her a nip, and thereby awakened her out of her dreame, and then told her (when ſhe was awakened) that it muſt have part of her ſoule; whereupon ſhe was in a great feare, and gave him no anſwer, but prayed to God, and thereupon it vani<g ref="char:EOLhyphen"/>ſhed away from her. About five dayes after, the ſame Mouſe ap<g ref="char:EOLhyphen"/>peared to her againe, bringing with it another Mouſe, about the bigneſſe of an ordinary Mouſe, or very little bigger, browne like the former, ſave only that this latter had ſome white about the belly, whereas the former was all browne. Then the Mouſe that firſt appeared, ſaid, we muſt ſucke of your body. Shee yiel<g ref="char:EOLhyphen"/>ded to them, and ſaid, they ſhould: upon her yie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding they went to her, and ſucked of her bodie, where the markes are found. The
+<pb n="12" facs="tcp:159776:9"/> bigger mouſe ſhe called <hi>Tib,</hi> and the leſſer <hi>Jone. Tib</hi> told her that ſhe muſt forſake God and Chriſt, and take them for her Gods: telling her that when ſhe dyed, they muſt have her ſoule, to all which ſhe yielded. <hi>Tib</hi> promiſed her to hurt men if ſhee ſhould deſire. <hi>Jone</hi> promiſed her to hurt Cattell if ſhee should deſire. Within two dayes after they appeared again: and ever after till ſhee was diſcovered, they appeared once every 24. houres.</p>
+               <p>This the ſaid <hi>Deſbourough</hi> confeſſed on the firſt ſaid day in the preſence of me</p>
+               <closer>
+                  <signed>Joſeph Coysh <hi>Miniſter of the Word.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Examination of <hi>Jane Wallis</hi> of <hi>Keiſton</hi> in the County of Hunting<g ref="char:EOLhyphen"/>ton Spinſter taken the <hi>16<hi rend="sup">th</hi>
+                  </hi> day of <hi>Aprill, 1646.</hi> before Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Osborn</hi> Knight, one of his Majeſties Juſtices of the Peace for the County of <hi>Huntington.</hi>
+               </head>
+               <p>THis Examinate ſaith, as ſhe was making of her bedde in her Chamber, there appeared in the shape of a man in blacke cloaths and blackish cloaths about ſixe weeks paſt, and bid her good-morrow, and shee asked what his name was, and he ſaid his name was <hi>Blackeman,</hi> and asked her if she were poore, and she ſaid I; then he told her he would ſend one <hi>Griſſell</hi> and <hi>Greedigut</hi> to her, that shall do any thing for her: Shee looking upon him, ſaw hee had ugly feete, and then she was very fearfull of him for that he would ſeem ſometimes to be tall, and ſometimes leſſe, and ſud<g ref="char:EOLhyphen"/>denly vanished away.</p>
+               <p>And being demanded whether he lay with her, shee ſaid hee would have lain with her, but shee would not ſuffer him: and after <hi>Blackeman</hi> was departed from her, within three or 4. dayes, <hi>Griſſell</hi> and <hi>Greedigut</hi> came to her, in the shapes of dogges with great briſles of hogges haire upon their backs, and ſaid to her they were come from <hi>Blackeman</hi> to do what she would command them, and did aske her if shee did want any thing, and they
+<pb n="13" facs="tcp:159776:9"/> would fetch her any thing: and shee ſaid shee lacked nothing: then they prayed her to give them ſome victuals, and she ſaid she wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poore and had none to give them, and ſo they departed: Yet the confeſſed that <hi>Blackman, Griſſell,</hi> and <hi>Greedigut</hi> divers times cames to her afterwards, and brought her two or three shillings at a time, and more ſaith not.</p>
+               <closer>
+                  <signed>Signum <hi>Jane Willis.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>April</hi> 14. 1646.</head>
+               <p>IOANE WALLIS confeſſed to me, and <hi>John Guylet</hi> that ſhee had <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ree Spirits, ſhe called them <hi>Black-man, Griſſel,</hi> and <hi>Gredi<g ref="char:EOLhyphen"/>gul,</hi> and that <hi>Blackman</hi> gave her the other two, and told her they ſhould doe any thing for her that ſhe ſhould deſire: ſhe ſaid <hi>Black<g ref="char:EOLhyphen"/>man</hi> came firſt to her, about a twelve-moneth ſince, like a man ſomething ancient, in blackish cloathes, out he had ugly feet un<g ref="char:EOLhyphen"/>covered. Sometimes she ſaid it was longer ſince he firſt came to her, and ever ſince he appeared in the like shape, but <hi>Griſſell,</hi> and <hi>Greedigut</hi> did come in ſeverall shapes, yet moſt commonly like hounds with Briſſells on their backes. I asked her what uſe she put them to, and if any of them had the uſe of her body beſides ſucking; she ſaid he would have had once, but shee denyed him: then preſently of her ſelfe shee ſaid, if I would not tell, shee would confeſſe, but she hoped I would love her never the worſe, and then shee ſaid that <hi>Blackman</hi> had the uſe of her body once, twice, and ſometimes thrice in a week, but the other two onely ſucked her where her marks are found; she ſaid <hi>Blackman</hi> never ſucked her; she would not confeſſe that she ever ſent them to doe any harme, but ſaid the filthy rough <hi>Blackman</hi> would ſend them; but what hurt they did she confeſſed not to us. I asked her to what purpoſe she ſet <hi>Griſ.</hi> and <hi>Greed.</hi> ſuck her if she made no uſe of them? she ſaid, they would ſometimes bring her mo<g ref="char:EOLhyphen"/>ney, two or three shillings at a time, and that was all they did
+<pb n="14" facs="tcp:159776:10"/> for her; and once they told her they robb'd a man, and pulled him from his horſe, and brought her ſome money.</p>
+               <p>All this she confeſſed to me before Dinner, and after Dinner she affirmed it all to be truth, but in the repeating she would ſeem to forget <hi>Griſ.</hi> and <hi>Greed.</hi> names, but alwayes affirmed the ſame of <hi>Blackman;</hi> She ſaid, she firſt would have had them ſucked her breaſts, but they would not, and choſe the place themſelves.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Edw. Ma. Wingfeild.</hi>
+                        </item>
+                        <item>
+                           <hi>John Guylatte.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Examination of <hi>John Clarke Junior,</hi> of Keiſton, in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Hunt.</hi> Labourer, taken before me <hi>John-Caſtell,</hi> Eſquire, one of his Majeſties Juſtices of the Peace for the ſaid County, the <hi>2<hi rend="sup">d</hi>.</hi> day of <hi>May. 1646.</hi>
+               </head>
+               <p>WHo ſaith, That true it is that hee did overtake one man and three women upon the Sabbath day laſt was ſeven-night, between <hi>Stanwick</hi> and <hi>Raunce,</hi> being about three miles from <hi>Keiſtone,</hi> whither this Examinate was going. But this Exa<g ref="char:EOLhyphen"/>minate denyeth that he ever told or ſaid that he had any marks cut off, or that he had any place of meeting with any Witches, or that he had any conſultation, or made any Compact with the Devill, or ever knew what belonged to any ſuch matter. And further ſaith not.</p>
+               <closer>
+                  <signed>JOHN CASTELL.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Information of <hi>John Browne</hi> of <hi>Raunce</hi> in the County of <hi>Northampton,</hi> Tailor, taken upon oath the ſecond day of May, <hi>1646.</hi> before me <hi>John Caſtell,</hi> Eſq; one of his Majeſties Juſtices the Peace for the County of <hi>Hunt.</hi>
+               </head>
+               <p>WHo ſaith, That upon the Sabbath day laſt was ſeven-night, he (this Informant) comming from <hi>Higham-Fer<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is</hi> to <hi>Raunce</hi> in the County of <hi>Northampton</hi> aforeſaid, where he
+<pb n="15" facs="tcp:159776:10"/> quartereth, and ſitting downe by <hi>Stanwick</hi> Townes end, ſaw one comming from <hi>Artlebroward;</hi> who when hee came neare to this Informant, this Informant ſaid, I have ſtaid for you a long time; but he anſwered, I ſaw you not all the way I came. Then this Informant ſaid to him, from whence came you? who anſwered, that hee came from his Uncles at <hi>Artlebrow:</hi> Then this Informant asked him who was his Uncle? and hee ſaid one <hi>Clarke:</hi> this Informant asked him, if hee were not <hi>Clarks</hi> ſonne of <hi>Keiſton,</hi> he anſwered, he was: And then this Informant asked him, What haſte he was in? who ſaid he was in haſte; for his Father and Mother were accuſed for Witches, and that hee himſelfe had beene ſearched; and this Informant anſwered, and ſo have I. Then <hi>Clarke</hi> asked this Informant, whether any thing were found about him, or not? he (this Informant) anſwered that they ſaid there were marks: <hi>Clarke</hi> ſaid againe, had you no more wit but to have your marks found? I cut off mine three dayes before I was ſearched. And then after ſome further com<g ref="char:EOLhyphen"/>munication paſt concerning who ſearched them, <hi>Clark</hi> ſaid to this Informant, I doe not beleeve you are a Witch, for I never ſaw you at our meetings: who anſwered, that perhaps their meetings were at ſeverall places, and ſo fell out and parted.</p>
+               <closer>
+                  <signed>JOHN CASTELL.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>VVHo deſires to be reſolved in caſes of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſcience touching Witches and Witch-crafts, let them read that learned diſcourſe of <hi>M<hi rend="sup">r.</hi> JOHN GAULES,</hi> lately ſet forth, and Printed for <hi>Richard Clutterbuck STATIONER.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
